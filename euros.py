@@ -9,4 +9,4 @@ Continue = input("Continue code?:")
 while Continue == "Yes":
     US_Dollar = int(input("Enter dollar amount to be converted:"))
     print("₤",euro)
-    Continue = input("Continue code?: ")
+ 
